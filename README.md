@@ -1,0 +1,1 @@
+# Quick and easy import as a module in other Terraform projects
